@@ -7,8 +7,11 @@ You are brought to a menu where you can start the game.
 # Speed
 You must choose a speed for the snake to move i.e. the FPS
 The choices are:
+
 Snail (7 FPS)
+
 Medium (10 FPS)
+
 Speedy (13 FPS
 
 # Game
