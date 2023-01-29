@@ -6,7 +6,6 @@
 from snake_game.label import Label
 from snake_game.button import Button
 from snake_game.mod import put_number_on_screen
-from snake_game.ai import startAI
 from time import sleep
 from pathlib import Path
 from random import randint
@@ -557,8 +556,6 @@ def main():
         
         if ai_button.draw(493, 300, surface):
             sounds('click', sound_on)
-            surface.fill(BLACK)
-            sound_on = startAI(surface, sound_on)
         
         if not sound_on:
             if sound_off_button.draw(845, 540, surface):
