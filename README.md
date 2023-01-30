@@ -7,14 +7,11 @@ Introduced by the Nokia 6110 in 1997, Snake is a classic retro game where you ar
    - Snail 
    - Medium
    - Speedy
+   - 
 ![speed](https://user-images.githubusercontent.com/123867128/215491010-50d2b41c-807d-4c45-97f1-4a39700f4a39.png)
 
 ### The two types of Game Over are: 
-![](https://media.giphy.com/media/1OS6sC6roMBzoAXhDQ/giphy.gif)
-
-and
-
-<second death>
+![](https://media.giphy.com/media/1OS6sC6roMBzoAXhDQ/giphy.gif) and <second death>
     
 # Installation
 This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. In a [virtual environment](https://github.com/pypa/virtualenv) pip install [pygame](https://github.com/pygame/):
