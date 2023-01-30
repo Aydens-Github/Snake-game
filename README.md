@@ -10,7 +10,8 @@ Introduced by the Nokia 6110 in 1997, Snake is a classic retro game where you ar
 ### Usually you die to: 
 - hitting walls 
 - hitting yourself
-[death1](https://media.giphy.com/media/1OS6sC6roMBzoAXhDQ/giphy.gif) <death2>
+![](https://media.giphy.com/media/1OS6sC6roMBzoAXhDQ/giphy.gif)
+
   
 # Installation
 This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. In a [virtual environment](https://github.com/pypa/virtualenv) pip install [pygame](https://github.com/pygame/):
