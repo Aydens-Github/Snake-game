@@ -19,7 +19,7 @@ Gameplay:
 <gameplay>
 
 # Installation
-This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. The dependancies used are as follows:
+This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. In a https://docs.python.org/3/library/venv.html install these dependencies:
 ```bash
 pip install pygame
 ```
