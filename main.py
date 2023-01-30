@@ -13,10 +13,10 @@ import pygame as pg
 
 
 # Defining path for the images
-images_path = Path(__file__).parents[3] / "images"
+images_path = Path(__file__).parents[1] / "images"
 snake_game_path = Path(__file__).parents[1] / "snake_game"
 snake_game_path = str(snake_game_path) + '\HIGH_SCORE.txt'
-sounds_path = Path(__file__).parents[3] / "sounds"
+sounds_path = Path(__file__).parents[1] / "sounds"
 
 # Initializing pygame
 pg.init()
