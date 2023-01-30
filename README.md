@@ -19,7 +19,14 @@ Gameplay:
 <gameplay>
 
 # Installation
-This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. The dependancies used are:
+This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. The dependancies used are as follows:
 ```bash
-1 234
+pip install pygame
 ```
+Like i said, not that complicated.
+
+# PS
+The game isnt really finished the Rules button in the menu has no function, the AI button neither and I don't plan on finishing them any time soon.
+
+# PPS 
+This is my first github repository im very new to github so sorry if my readme is jumbled all over the place im still learning.
