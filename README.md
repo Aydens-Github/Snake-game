@@ -6,6 +6,7 @@ Introduced by the Nokia 6110 in 1997, Snake is a classic retro game where you ar
 - Medium
 - Speedy
 <Speed Menu>
+
 ### Usually you die to: 
 
 - hitting walls 
