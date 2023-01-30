@@ -29,4 +29,4 @@ Like i said, not that complicated.
 The game isnt really finished the Rules button in the menu has no function, the AI button neither and I don't plan on finishing them any time soon.
 
 # PPS 
-This is my first github repository im very new to github so sorry if my readme is jumbled all over the place im still learning.
+This is my first github repository im very new to github so sorry if my readme is jumbled and all over the place im still learning.
