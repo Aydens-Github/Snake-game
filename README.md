@@ -29,3 +29,6 @@ The game isnt really finished the Rules button in the menu has no function, the 
 
 #### PPS 
 This is my first github repository im very new to github so sorry if my readme is jumbled and all over the place im still learning.
+
+#### PPPS
+The code does used in this game is old and not properly show off my actual skill so just bear that in mind when reading the spaghetti code.
