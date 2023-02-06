@@ -28,3 +28,6 @@ This is my first github repository im very new to github so sorry if my readme i
 
 #### PPPS
 The code does used in this game is old and not properly show off my actual skill so just bear that in mind when reading the spaghetti code.
+
+#### PPPPS
+I made this game completely on my own and only had breif help on specific issues and errors through the Python Discord help channels. I followed no tutorial whatsoever for any of the code used in this game it is all completely made from scratch.
