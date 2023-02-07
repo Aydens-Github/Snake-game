@@ -21,10 +21,7 @@ pip install pygame
 Like i said, not that complicated.
   
 # Gameplay:
-
-https://user-images.githubusercontent.com/123867128/217283858-3cb3fd5d-36d8-45ca-80ba-6695a4530005.mp4
-
-
+https://user-images.githubusercontent.com/123867128/217327030-9d9143b4-6d88-496e-b295-bae7bd0440ff.mp4
 # Other
 #### PS
 The game isnt really finished the Rules button in the menu has no function, the AI button neither and I don't plan on finishing them any time soon.
