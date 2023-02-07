@@ -8,7 +8,9 @@ Introduced by the Nokia 6110 in 1997, Snake is a classic retro game where you ar
 
 ### The two types of Game Over are: 
 ![](https://media.giphy.com/media/1OS6sC6roMBzoAXhDQ/giphy.gif) 
+
 and 
+
 ![](https://media.giphy.com/media/fGlr3jYb6EpcQawd3M/giphy.gif)
 
 # Installation
