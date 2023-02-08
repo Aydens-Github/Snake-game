@@ -141,9 +141,9 @@ class Snake(object):
                     
                 if direction in (UP, DOWN): 
                     updown_square_label.draw(p[0], p[1], self.surface)
-    
+
             predirection = direction
-        
+
         if alive or wall:
             if self.directions[0] in (RIGHT, LEFT): 
                 leftright_square_label.draw(self.pos[0][0], self.pos[0][1], self.surface)   
@@ -162,7 +162,7 @@ class Snake(object):
 
             if self.dir == RIGHT:
                 leftright_dead_square_label.draw(self.pos[1][0], self.pos[1][1], self.surface)
-        
+
             if self.dir == UP:
                 updown_dead_square_label.draw(self.pos[1][0], self.pos[1][1] -4, self.surface)
 
@@ -176,7 +176,7 @@ class Snake(object):
 
             if self.dir == RIGHT:
                 last_right_square_label.draw(self.pos[1][0] + 4, self.pos[1][1], self.surface)
-        
+
             if self.dir == UP:
                 last_up_square_label.draw(self.pos[1][0], self.pos[1][1] -4, self.surface)
 
@@ -233,9 +233,9 @@ class Snake(object):
                     if not self.second_direction:
                         self.second_direction = RIGHT
                     return
-                
+
                 self.dir = RIGHT
-            
+
             self.turning = False
             sounds('turn', self.sound_on)
 
@@ -396,7 +396,7 @@ class Food(object):
         if self.green_apple: green_square_label.draw(self.pos[0], self.pos[1], surface)
         else: red_square_label.draw(self.pos[0], self.pos[1], surface)
 
-    
+
 def sounds(sound_type, sound_on):
     if sound_on == False:
         return
@@ -476,7 +476,7 @@ def speed_test(surface, sound_on):
         # If user click start button then run game
         if slow_button.draw(309, 250, surface): 
             if i >= 3:
-                sound_on = play(surface, 7, sound_on)
+                sound_on = play(surface, 2, sound_on)
                 i = 0
 
         # If user clicks exit then quit game
@@ -490,7 +490,7 @@ def speed_test(surface, sound_on):
             if i >= 3:
                 sound_on = play(surface, 13, sound_on)
                 i = 0
-        
+
         # If user clicks statistics button then show statistics
         if back_button.draw(30, 530, surface):
             sounds('click', sound_on)
