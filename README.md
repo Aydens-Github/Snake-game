@@ -21,8 +21,12 @@ pip install pygame
 Like i said, not that complicated.
   
 # Gameplay:
-https://user-images.githubusercontent.com/123867128/217327030-9d9143b4-6d88-496e-b295-bae7bd0440ff.mp4
-# Other
+
+This is a real game I played on speed mode. btw if you were wondering my record is 276 I have played this game quite a lot cause its super fun.
+
+# The snake and turning
+The snake turns very smoothely and even if you click two keys at the same time it will turn both ways in order of how you pressed because I added that functionality to make the snake smoother; when I didnt have it in, it felt choppy and you couln't do those quick rotations or make a staircase but now you can.
+## Other
 #### PS
 The game isnt really finished the Rules button in the menu has no function, the AI button neither and I don't plan on finishing them any time soon.
 
