@@ -35,7 +35,7 @@ Enjoy playing this awesome game!
 
 # Gameplay:
 
-https://user-images.githubusercontent.com/123867128/217817729-e6bf32b0-7f5f-49cc-ba6c-fdb38a8013de.mp4
+https://user-images.githubusercontent.com/123867128/217818637-7360767a-fe53-438c-bcbc-85d1dfc93ee3.mp4
 
 This is a real game I played on speed mode. btw if you were wondering my record is 276 I have played this game quite a lot cause its super fun.
 
