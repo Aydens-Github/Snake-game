@@ -34,7 +34,8 @@ If that did not work, ensure that you have a version of python that works with p
 Enjoy playing this awesome game!
 
 # Gameplay:
-https://user-images.githubusercontent.com/123867128/217765330-1df5bc8e-12a5-4ad2-85ca-a4827d1033a4.mp4
+
+https://user-images.githubusercontent.com/123867128/217817729-e6bf32b0-7f5f-49cc-ba6c-fdb38a8013de.mp4
 
 This is a real game I played on speed mode. btw if you were wondering my record is 276 I have played this game quite a lot cause its super fun.
 
