@@ -14,17 +14,22 @@ and
 ![](https://media.giphy.com/media/fGlr3jYb6EpcQawd3M/giphy.gif)
 
 # Installation
-This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. In a [virtual environment](https://github.com/pypa/virtualenv) pip install [pygame](https://github.com/pygame/):
+This game was made in python `3.10` but im sure other versions work as well cause its not that complicated. Click the green **Code** button at the top and in a dropdown menu click **Download Zip**. 
+
+<arrow pointing at download zip>
+
+Extract the newly downloaded folder and inside of the folder (the parent folder of where the code is) create a [virtual environment](https://github.com/pypa/virtualenv) and pip install [pygame](https://github.com/pygame/), put the folder with the code inside of the newly created venv(virtual environment) and run the .py file labeled **main**. 
+
+<Arrow pointing at main> 
+
+To install pygame run the following command in your shell/bash/terminal:
 ```bash
 pip install pygame
 ```
-Like i said, not that complicated.
-  
+Now enjoy playing the awesome game!
+
 # Gameplay:
-
-
 https://user-images.githubusercontent.com/123867128/217765330-1df5bc8e-12a5-4ad2-85ca-a4827d1033a4.mp4
-
 
 This is a real game I played on speed mode. btw if you were wondering my record is 276 I have played this game quite a lot cause its super fun.
 
