@@ -42,7 +42,6 @@ This is a real game I played on speed mode. btw if you were wondering my record 
 # The snake and turning
 The snake turns very smoothely and even if you click two keys at the same time it will turn both ways in order of how you pressed because I added that functionality to make the snake smoother; when I didnt have it in, it felt choppy. Another feature that makes the game really come together is the fact that the snake body is seperated instead of clumped together as one big blue blob, just looks much cleaner as a whole. The controls are WASD and or the four arrow keys they work exactly like how you would expect it to.
 
-Nonetheless that is the path I took in the example gameplay above and lost.
 ## Other
 #### PS
 The game isnt really finished the Rules button in the menu has no function, the AI button neither and I don't plan on finishing them any time soon.
