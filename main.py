@@ -476,7 +476,7 @@ def speed_test(surface, sound_on):
         # If user click start button then run game
         if slow_button.draw(309, 250, surface): 
             if i >= 3:
-                sound_on = play(surface, 2, sound_on)
+                sound_on = play(surface, 7, sound_on)
                 i = 0
 
         # If user clicks exit then quit game
