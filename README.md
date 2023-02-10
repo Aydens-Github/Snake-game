@@ -2,7 +2,7 @@
 Introduced by the Nokia 6110 in 1997, Snake is a classic retro game where you are a snake who must eat food to grow larger. I wrote the game to get better at OOP (Object-Oriented-programming) and to get a feel as to what to excpect from bigger projects. I also made multiple menus in the game where you can do diffrent actions by clicking buttons on the screen that I have all made my myself even the buttons and images scatterted around the game. I have already finished this project at the time of making this repository so I made this repository solely for the purpse of showing off my game.
 
 ## Overview
-### You can pick a speed: 
+### To start off, you can pick a speed: 
 ![](https://media.giphy.com/media/TZnc5GzsOotcJw3pik/giphy.gif)
 
 ### The two types of Game Over are: 
@@ -34,13 +34,9 @@ If that did not work, ensure that you have a version of python that works with p
 Enjoy playing this awesome game!
 
 # Gameplay:
-
 https://user-images.githubusercontent.com/123867128/217818637-7360767a-fe53-438c-bcbc-85d1dfc93ee3.mp4
 
-This is a real game I played on speed mode. btw if you were wondering my record is 276 I have played this game quite a lot cause its super fun.
-
-# The snake and turning
-The snake turns very smoothely and even if you click two keys at the same time it will turn both ways in order of how you pressed because I added that functionality to make the snake smoother; when I didnt have it in, it felt choppy. Another feature that makes the game really come together is the fact that the snake body is seperated instead of clumped together as one big blue blob, just looks much cleaner as a whole. The controls are WASD and or the four arrow keys they work exactly like how you would expect it to.
+This is a real game I played on speed mode. btw if you were wondering my record is 276 I have played this game quite a lot cause its super fun. The snake turns very smoothely because even if you click two keys at the same time it will turn both ways in order of how you pressed them. Another feature that makes the game really come together is the fact that the snake body is seperated instead of clumped together as one big blue blob, it just looks much more cleaner and satisfying to play and watch the snake move. The controls are WASD or the four arrow keys, I added both to fit the <blank> of every gamer.
 
 ## Other
 #### PS
