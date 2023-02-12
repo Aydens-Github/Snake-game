@@ -17,7 +17,7 @@ This game was made in python `3.10` but im sure other versions work as well caus
 
 ![Screenshot 2023-02-09 132450](https://user-images.githubusercontent.com/123867128/217780099-05945c98-ba4d-424a-a674-9fa5240da280.png)
 
-Extract the newly downloaded folder and inside of the folder (the parent folder of where the code is) create a [virtual environment](https://github.com/pypa/virtualenv) and put the folder with the code inside of the newly created venv(virtual environment) and pip install [pygame](https://github.com/pygame/). 
+The only dependency is [pygame](https://github.com/pygame/).
 To install pygame run the following command in your shell/bash/terminal:
 ```bash
 pip install pygame
@@ -31,7 +31,7 @@ If that did not work, ensure that you have a version of python that works with p
 
 ![Screenshot 2023-02-09 132649](https://user-images.githubusercontent.com/123867128/217780107-242b5d65-c1b3-455b-91a5-a55278303b14.png)
 
-Enjoy playing this awesome game!
+Enjoy!
 
 # Gameplay:
 https://user-images.githubusercontent.com/123867128/217818637-7360767a-fe53-438c-bcbc-85d1dfc93ee3.mp4
