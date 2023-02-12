@@ -20,7 +20,7 @@ class Button():
     # Returns True if the button is clicked, False otherwise
     def draw(self, x, y, surface):
         # draw button
-        self.draw2(x, y, surface)
+        self.draw(x, y, surface)
 
         # Change clicked if the button is clicked, the default is False
         self.clicked = False
@@ -37,11 +37,11 @@ class Button():
             if self.rect.collidepoint(pos):
                 # change clicked to True because the button was clicked
                 self.clicked = True
-        
+
         # Return if the button was clicked
         return self.clicked
 
-    def draw2(self, x, y, surface):
+    def draw(self, x, y, surface):
         # Moving the button to correct position
         self.rect.topleft = (x, y)
         # Drawing the button to the screen

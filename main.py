@@ -528,9 +528,6 @@ def main():
         # Setting fps
         clock.tick(10)
 
-        # Resetting screen every tick
-        surface.fill(BLACK)
-
         # Drawing title label to screen
         title_label.draw(165, 20, surface)
         
